@@ -1,0 +1,25 @@
+CMP5133-Artificial Neural Networks
+Homework 1 - MULTILAYER PERCEPTRON IMPLEMENTATION
+
+Attached are the dataset and its description in UCI learning repository. 
+You are going to train a multilayer perceptron (MLP) with 12 inputs, one output and H hidden units. 
+
+For detailed information about the dataset, http://archive.ics.uci.edu/ml/datasets/Forest+Fires.
+
+IMPORTANT
+
+"forestfires_data.xlsx" contains the training and validation sets.
+
+Tasks
+Preprocess the features of the dataset. Standardize the numerical features and use 1-of-C coding to convert the categorical features to numerical values.
+
+Train MLP on training set and test the obtained network on validation set for different values of H from 1 to 10.
+
+Plot raining and validation errors as a function of H.
+
+----------------------------------------------
+Submit your code, results (plots) and a short report explaining what you did.
+
+This homework is due March 22, Wednesday, 23:59 *sharp (late submissions will not be accepted)
+
+---
